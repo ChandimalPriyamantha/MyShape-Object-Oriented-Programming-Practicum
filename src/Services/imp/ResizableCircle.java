@@ -4,13 +4,13 @@ import Services.Resizable;
 
 public class ResizableCircle extends Circle implements Resizable {
 
-    public ResizableCircle(double radius) {
-        super(radius);
-    }
+//    public ResizableCircle(double radius) {
+//        super(radius);
+//    }
 
     @Override
     public double resize(double percent) {
 
-        return radius * ((100+percent)/100.0);
+        return super.radius * ((100+percent)/100.0);
     }
 }

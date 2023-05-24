@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9cd285e-0eda-4703-9223-240f4c9b7dda" name="Changes" comment="" />
+    <list default="true" id="c9cd285e-0eda-4703-9223-240f4c9b7dda" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/GUI/MyShape.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/MyShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/Run.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Services/imp/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Services/imp/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Services/imp/ResizableCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Services/imp/ResizableCircle.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +38,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH": "140",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "251",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/Vivobook/Downloads/MyShapes",
@@ -49,11 +58,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684935218543</updated>
-      <workItem from="1684935219742" duration="13497000" />
+      <workItem from="1684935219742" duration="18156000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NumberFormatException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

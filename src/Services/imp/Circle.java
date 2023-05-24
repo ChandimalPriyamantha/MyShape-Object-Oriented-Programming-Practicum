@@ -4,12 +4,20 @@ import Services.GeometricObject;
 
 public class Circle implements GeometricObject {
 
-
     protected  double radius;
+    public double getRadius() {
+        return radius;
+    }
 
-    public Circle(double radius) {
+    public void setRadius(double radius) {
         this.radius = radius;
     }
+
+
+
+//    public Circle(double radius) {
+//        this.radius = radius;
+//    }
 
     @Override
     public double getPerimeter() {
